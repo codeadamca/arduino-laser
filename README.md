@@ -30,7 +30,7 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-motor/main/tinkercad-motor.png)
+![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-laser/main/tinkercad-laser.jpg)
 
 [View the Circuit on Tinkercad](https://www.tinkercad.com/things/4gRQcWldkm2-arduino-laser)
 
