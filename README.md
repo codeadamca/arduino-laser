@@ -1,4 +1,4 @@
-# arduino-laser
+# Arduino and a Laser
 
 A basic example of controlling a laser using an Arduino.
 
